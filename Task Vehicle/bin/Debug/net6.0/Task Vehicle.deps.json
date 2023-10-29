@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task Vehicle/1.0.0": {
+        "runtime": {
+          "Task Vehicle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task Vehicle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
